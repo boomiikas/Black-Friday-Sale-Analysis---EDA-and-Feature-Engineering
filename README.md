@@ -76,9 +76,10 @@ The dataset consists of two files:
 
 ---
 
-## 🚀 How to Run  
+## 📈 Expected Outcomes
 
-1. Clone the repository  
-   ```bash    
-   git clone https://github.com/your-username/black-friday-analysis.git
-   cd black-friday-analysis  
+- Insights into customer purchase behavior
+- Cleaned dataset ready for modeling
+- Predictive model to estimate Purchase Amount for test data
+
+---
